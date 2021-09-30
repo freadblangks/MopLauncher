@@ -50,15 +50,9 @@
     },
     {
       "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\CrossFactionBG.lua",
-      "hash": "B47B41322CB3B62AD04135CB1D434AD8",
-      "size": 6148,
+      "hash": "1EB77924DE0DB34B86EF7033633868F7",
+      "size": 1300,
       "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL0Nyb3NzRmFjdGlvbkJHLmx1YQ=="
-    },
-    {
-      "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\CrossFactionBG.xml",
-      "hash": "C4E4E1403786541ADB13670E1C9C3A06",
-      "size": 577,
-      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL0Nyb3NzRmFjdGlvbkJHLnhtbA=="
     },
     {
       "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\LibPandaWoW.lua",
@@ -74,8 +68,8 @@
     },
     {
       "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\PandaWoW.toc",
-      "hash": "1A5DD0B1891E2A341A7FB8616117E244",
-      "size": 190,
+      "hash": "1F6D4DF077F58D1490B5BE22B0E167C7",
+      "size": 144,
       "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL1BhbmRhV29XLnRvYw=="
     },
     {
