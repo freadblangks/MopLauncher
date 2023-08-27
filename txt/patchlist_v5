@@ -1,0 +1,126 @@
+{
+  "version: "1.0.6.5",
+  "files": [
+    {
+      "fileName": "divxdecoder.dll",
+      "hash": "57E72CAE12091DAFA29A8E4DB8B4F1D1",
+      "size": 413696,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9kaXZ4ZGVjb2Rlci5kbGw="
+    },
+    {
+      "fileName": "MovieProxy.exe",
+      "hash": "F39774A53E9D1F49FAB3C4895513B7A9",
+      "size": 76992,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9Nb3ZpZVByb3h5LmV4ZQ=="
+    },
+    {
+      "fileName": "msvcr80.dll",
+      "hash": "1169436EE42F860C7DB37A4692B38F0E",
+      "size": 632656,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9tc3ZjcjgwLmRsbA=="
+    },
+    {
+      "fileName": "pandawow-32.dll",
+      "hash": "32313BF0DD1166937E4737B8098E6044",
+      "size": 460296,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9wYW5kYXdvdy0zMi5kbGw="
+    },
+    {
+      "fileName": "PandaWoW-32.exe",
+      "hash": "7BC47119A963C68CBCBFD8AAA58D2BC5",
+      "size": 13151792,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9QYW5kYVdvVy0zMi5leGU="
+    },
+    {
+      "fileName": "pandawow-64.dll",
+      "hash": "C8BD1713705A19B52C6420E82EB3508E",
+      "size": 551432,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9wYW5kYXdvdy02NC5kbGw="
+    },
+    {
+      "fileName": "PandaWoW-64.exe",
+      "hash": "ED4058303343E9AA2F847F95356417B5",
+      "size": 20902448,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9QYW5kYVdvVy02NC5leGU="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\AceTimer-3.0.lua",
+      "hash": "50A0D887631EE3D5D65616CEF35999F6",
+      "size": 9456,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL0FjZVRpbWVyLTMuMC5sdWE="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\CrossFactionBG.lua",
+      "hash": "1EB77924DE0DB34B86EF7033633868F7",
+      "size": 1300,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL0Nyb3NzRmFjdGlvbkJHLmx1YQ=="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\LibPandaWoW.lua",
+      "hash": "5BE17EE94508CC3CDA57C2392076C771",
+      "size": 5225,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL0xpYlBhbmRhV29XLmx1YQ=="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\LibStub.lua",
+      "hash": "93ABC8A68C559035F6AAE51EED7FF89A",
+      "size": 1367,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL0xpYlN0dWIubHVh"
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\PandaWoW.toc",
+      "hash": "1F6D4DF077F58D1490B5BE22B0E167C7",
+      "size": 144,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL1BhbmRhV29XLnRvYw=="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\PandaWoW\\\\Transmogrification.lua",
+      "hash": "B77039D77FEAD5FDD46AD72E8607803D",
+      "size": 18915,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL1BhbmRhV29XL1RyYW5zbW9ncmlmaWNhdGlvbi5sdWE="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\Blizzard_StoreUI\\\\Blizzard_StoreUI.pub",
+      "hash": "06062AEDE3649549292C1677F18158FF",
+      "size": 257,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL0JsaXp6YXJkX1N0b3JlVUkvQmxpenphcmRfU3RvcmVVSS5wdWI="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\Blizzard_StoreUI\\\\gold.blp",
+      "hash": "044BD9FF81D1A0A56C5C5B8CB52BE348",
+      "size": 6660,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL0JsaXp6YXJkX1N0b3JlVUkvZ29sZC5ibHA="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\Blizzard_StoreUI\\\\silver.blp",
+      "hash": "68F0F124F98A951DE52710AE44E8E6D7",
+      "size": 2564,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL0JsaXp6YXJkX1N0b3JlVUkvc2lsdmVyLmJscA=="
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\Blizzard_StoreUI\\\\VAS_AppearanceChange.blp",
+      "hash": "6598D64816380A4C7C2670168E751003",
+      "size": 6660,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL0JsaXp6YXJkX1N0b3JlVUkvVkFTX0FwcGVhcmFuY2VDaGFuZ2UuYmxw"
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\Blizzard_StoreUI\\\\VAS_FactionChange.blp",
+      "hash": "F1D4B113F586B0C89A7215B978554E23",
+      "size": 6660,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL0JsaXp6YXJkX1N0b3JlVUkvVkFTX0ZhY3Rpb25DaGFuZ2UuYmxw"
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\Blizzard_StoreUI\\\\VAS_NameChange.blp",
+      "hash": "F31FEF069298DB34C3FC1594E253EE01",
+      "size": 6660,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL0JsaXp6YXJkX1N0b3JlVUkvVkFTX05hbWVDaGFuZ2UuYmxw"
+    },
+    {
+      "fileName": "Interface\\\\AddOns\\\\Blizzard_StoreUI\\\\VAS_RaceChange.blp",
+      "hash": "5DCC9B52D365B76B60858978346D4596",
+      "size": 6660,
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hY3NpbWthL01vcExhdW5jaGVyL21hc3Rlci9GaWxlcy9JbnRlcmZhY2UvQWRkT25zL0JsaXp6YXJkX1N0b3JlVUkvVkFTX1JhY2VDaGFuZ2UuYmxw"
+    }
+  ],
+  "filesToDelete": []
+}
